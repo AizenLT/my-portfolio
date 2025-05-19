@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /@vite/
+Disallow: /*.tsx
+Disallow: /*.jsx
+Disallow: /*?t=*
